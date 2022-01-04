@@ -1,0 +1,17 @@
+tesseract-ocr
+tesseract-ocr-eng
+tesseract-ocr-jpn
+tesseract-ocr-hin
+tesseract-ocr-kor
+tesseract-ocr-rus
+tesseract-ocr-swe
+tesseract-ocr-tel
+tesseract-ocr-tam
+tesseract-ocr-spa
+tesseract-ocr-deu
+tesseract-ocr-fra
+tesseract-ocr-osd
+libsm6
+libxrender1
+libfontconfig1
+libice6
